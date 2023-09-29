@@ -8,4 +8,4 @@ i was bored
 download and include c_pwus_pwus.h
 
 ## example
-see test.uwu.cpp
+see example.uwu.cpp
