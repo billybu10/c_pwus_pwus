@@ -1,5 +1,6 @@
 # c_pwus_pwus
 pwogwamming weimmagined
+Write C/C++ in uwufied way.
 
 ## why
 i was bored
